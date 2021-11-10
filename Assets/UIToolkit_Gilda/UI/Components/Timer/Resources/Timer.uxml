@@ -1,0 +1,12 @@
+<ui:UXML
+xmlns:ui="UnityEngine.UIElements"
+xmlns:uie="UnityEditor.UIElements"
+xsi="http://www.w3.org/2001/XMLSchema-instance"
+noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd"
+editor-extension-mode="False">
+    
+    <Style src="project://database/Assets/HelloWorld/UI/Components/Timer/Resources/Timer.uss?fileID=7433441132597879392&amp;guid=498b9295629e31a48b4e16e57f6580ee&amp;type=3#Timer" />
+
+    <ui:Label name="timerLabel" text="00:00:00" style="font-size: 50px; justify-content: flex-start;" />
+
+</ui:UXML>

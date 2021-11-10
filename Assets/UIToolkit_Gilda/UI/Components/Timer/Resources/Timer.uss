@@ -1,0 +1,4 @@
+Label {
+    align-self: center;
+    color: white;
+}
