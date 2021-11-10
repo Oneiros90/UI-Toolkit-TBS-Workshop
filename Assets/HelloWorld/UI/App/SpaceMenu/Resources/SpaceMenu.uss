@@ -1,0 +1,28 @@
+.menuButton {
+    width: 400px;
+    height: 75px;
+    border-left-color: rgb(0, 188, 255);
+    border-right-color: rgb(0, 188, 255);
+    border-top-color: rgb(0, 188, 255);
+    border-bottom-color: rgb(0, 188, 255);
+    border-top-left-radius: 19px;
+    border-bottom-left-radius: 19px;
+    border-top-right-radius: 19px;
+    border-bottom-right-radius: 19px;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    background-color: rgba(88, 88, 88, 0);
+    font-size: 49px;
+    color: rgb(0, 81, 90);
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-top: 27px;
+    margin-bottom: 27px;
+}
+
+.menuButton:hover {
+    color: rgb(0, 231, 255);
+    scale: 1.1 1.1;
+}

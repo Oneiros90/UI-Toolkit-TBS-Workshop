@@ -1,0 +1,14 @@
+.background {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 129, 1);
+    align-items: center;
+    justify-content: center;
+}
+
+.helloWorldLabel {
+    font-size: 120px;
+    color: rgb(0, 0, 0);
+    -unity-text-align: upper-center;
+    width: 50%;
+}

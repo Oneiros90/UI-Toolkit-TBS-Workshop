@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/HelloWorld/UI/App/SpaceMenu/Resources/SpaceMenu.uss?fileID=7433441132597879392&amp;guid=51e9963ca37ede142a9fd184087fe535&amp;type=3#SpaceMenu" />
+    <ui:VisualElement name="Background" style="width: 100%; height: 100%; background-image: resource(&apos;Sprites/kitty-toft-backgroundgui&apos;); -unity-background-scale-mode: scale-and-crop; position: absolute; right: 0; bottom: 0; padding-left: 150px; padding-right: 150px; padding-top: 150px; padding-bottom: 150px;">
+        <ui:Label text="Main menu" display-tooltip-when-elided="true" name="Title" style="font-size: 100px; color: rgb(0, 231, 255); margin-left: 62px; margin-right: 62px; margin-top: 62px; margin-bottom: 62px;" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="menuButton" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="menuButton" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="menuButton" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="menuButton" />
+    </ui:VisualElement>
+</ui:UXML>
